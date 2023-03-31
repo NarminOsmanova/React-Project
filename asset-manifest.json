@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af6c17fb.css",
+    "main.js": "/static/js/main.5a70299f.js",
+    "static/media/people-wood-1.webp": "/static/media/people-wood-1.4557dc99731a2aed036e.webp",
+    "static/media/background-13.webp": "/static/media/background-13.e0e7ce0cafa47681ef66.webp",
+    "static/media/banner-42.png.webp": "/static/media/banner-42.png.a282518f7a3d81c8dd1c.webp",
+    "static/media/banner-41.png.webp": "/static/media/banner-41.png.fc29ce4c957c6698a682.webp",
+    "static/media/banner-39.png.webp": "/static/media/banner-39.png.98d48418486f71338cb4.webp",
+    "static/media/banner-40.png.webp": "/static/media/banner-40.png.0ad9d53712addfab9db7.webp",
+    "static/media/banner-43.png.webp": "/static/media/banner-43.png.77263838a9c431d7953e.webp",
+    "static/media/brand-2.png.webp": "/static/media/brand-2.png.675444be5c6b83c2e936.webp",
+    "static/media/brand-7.png.webp": "/static/media/brand-7.png.30d493e0c3baf22b367c.webp",
+    "static/media/logo-white.png.webp": "/static/media/logo-white.png.82955ef184285915dd5c.webp",
+    "static/media/brand-6.png.webp": "/static/media/brand-6.png.32145187a5e7f34f63fa.webp",
+    "static/media/brand-4.png.webp": "/static/media/brand-4.png.b0a7f9754763128bfba4.webp",
+    "static/media/brand-5.png.webp": "/static/media/brand-5.png.d1e94a020325999344e4.webp",
+    "static/media/brand-8.png.webp": "/static/media/brand-8.png.f5b9f9483a58ba6bbaf3.webp",
+    "static/media/brand-3.png.webp": "/static/media/brand-3.png.91b80c2ffb59001edd8e.webp",
+    "index.html": "/index.html",
+    "main.af6c17fb.css.map": "/static/css/main.af6c17fb.css.map",
+    "main.5a70299f.js.map": "/static/js/main.5a70299f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6c17fb.css",
+    "static/js/main.5a70299f.js"
+  ]
+}
